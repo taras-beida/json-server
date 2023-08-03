@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "server": "json-server --watch db.json",
+    "ngrok": "ngrok http 3000"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
